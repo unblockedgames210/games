@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body class=index>
+    
+    <h1>Top 10 Pages in this Website</h1>
+    <ol>
+      <li>
+        <a href=cool_page1.html>
+        How to make a Sandwich</a>
+      </li>
+      <li>
+        <a href=cool_page2.html>
+          Top 10 Adidas logos</a>
+      </li>
+    </ol>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h5>This website is published under Creative Commons licence CC-BY-SA</h5>
+    <p>Created by
+      <a class=bob
+        href=cool-not-page.html>Bobric Larson</a></p>
+ </body>
+</html>
